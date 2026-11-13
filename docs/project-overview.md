@@ -41,8 +41,8 @@ Develop an industrial-oriented three-phase PMSM motor controller using Field-Ori
 
 | Phase | Content                                              | Status      |
 | ----- | ---------------------------------------------------- | ----------- |
-| 1     | Motor definition, operating requirements, mathematical model | **current** |
-| 2     | FOC simulation: current loops, speed loop, SVPWM     | planned     |
+| 1     | Motor definition, operating requirements, mathematical model | complete |
+| 2     | FOC simulation: current loops, speed loop, SVPWM     | **complete** |
 | 3     | STM32 firmware, real-time implementation, protection | planned     |
 
 ## Current deliverables
