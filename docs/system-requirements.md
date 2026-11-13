@@ -41,7 +41,7 @@ Each requirement has a stable ID for traceability into simulation and firmware t
 | C-002   | PWM frequency 20 kHz, center-aligned                                        | Must     |
 | C-003   | All algorithms first validated in Python simulation                         | Must     |
 | C-004   | Target MCU: STM32 (specific part selected in Phase 3)                       | Must     |
-| C-005   | Zero-cost toolchain only                                                    | Must     |
+| C-005   | Industry-standard free toolchain (no licensed SDK dependencies)         | Must     |
 
 ## Performance targets (to be refined in Phase 2)
 

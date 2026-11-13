@@ -2,7 +2,7 @@
 
 Development of an industrial-oriented three-phase PMSM motor drive using Field-Oriented Control (FOC), featuring motor simulation, torque and speed regulation, and future STM32 embedded implementation.
 
-**Approach:** simulation first · zero budget · proprietary development
+**Approach:** simulation-first · proprietary development
 **Status:** Phase 1 — Industrial Motor Definition and Mathematical Modelling
 
 ## Design direction

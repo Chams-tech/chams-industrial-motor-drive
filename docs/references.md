@@ -27,6 +27,6 @@
 ## Tools
 
 10. NumPy / SciPy / Matplotlib — Python simulation stack (Phase 2).
-11. STM32CubeIDE + HAL — target toolchain (Phase 3, zero-cost tier).
+11. STM32CubeIDE + HAL — target toolchain (Phase 3).
 
 > Note: all control software in this repository is written in-house; application notes are used for conceptual reference only.

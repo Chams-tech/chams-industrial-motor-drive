@@ -9,7 +9,7 @@ Develop an industrial-oriented three-phase PMSM motor controller using Field-Ori
 | Principle            | Meaning                                                     |
 | -------------------- | ----------------------------------------------------------- |
 | Simulation first     | Every control algorithm is validated in simulation before any firmware is written |
-| Zero budget          | Free/open toolchain only (Python scientific stack, STM32 HAL/CubeIDE) |
+| Toolchain discipline | Industry-standard free toolchain (Python scientific stack, STM32 HAL/CubeIDE) |
 | Proprietary development | All control code written in-house; no vendored FOC libraries |
 
 ## Target domain
